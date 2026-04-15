@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harsh-890-jr/Leetcode_codes/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/harsh-890-jr/Leetcode_codes/tree/master/0704-binary-search) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/harsh-890-jr/Leetcode_codes/tree/main/1705-maximum-number-of-eaten-apples/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh-890-jr/Leetcode_codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0290-word-pattern](https://github.com/harsh-890-jr/Leetcode_codes/tree/main/0290-word-pattern/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1705-maximum-number-of-eaten-apples](https://github.com/harsh-890-jr/Leetcode_codes/tree/main/1705-maximum-number-of-eaten-apples/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1705-maximum-number-of-eaten-apples](https://github.com/harsh-890-jr/Leetcode_codes/tree/main/1705-maximum-number-of-eaten-apples/) | Medium |
 <!---LeetCode Topics End-->
