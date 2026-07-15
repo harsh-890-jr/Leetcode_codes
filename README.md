@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harsh-890-jr/Leetcode_codes/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/harsh-890-jr/Leetcode_codes/tree/master/0704-binary-search) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/harsh-890-jr/Leetcode_codes/tree/main/1705-maximum-number-of-eaten-apples/) | Medium |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/harsh-890-jr/Leetcode_codes/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh-890-jr/Leetcode_codes/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0290-word-pattern](https://github.com/harsh-890-jr/Leetcode_codes/tree/main/0290-word-pattern/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/harsh-890-jr/Leetcode_codes/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
